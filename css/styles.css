@@ -42,6 +42,14 @@ body
     width: 12%;
     display: inline-block;
 }
+.bow
+{
+    display: inline-block;    
+}
+.bow img{
+    margin-top: 15px;
+    width: 6%;
+}
 /*---------------------ONLINE COUNTER--------------------------*/
 #clockdiv{
     font-family: sans-serif;
