@@ -50,6 +50,12 @@ body
     margin-top: 15px;
     width: 6%;
 }
+.five_months
+{
+    font-family:Damion;
+    font-size: 95px;
+    color: #f0134d;
+}
 /*---------------------ONLINE COUNTER--------------------------*/
 #clockdiv{
     font-family: sans-serif;
